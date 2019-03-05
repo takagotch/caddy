@@ -23,5 +23,3 @@ basicauth "" milkshakes {
 
 ```
 ```
-
-
